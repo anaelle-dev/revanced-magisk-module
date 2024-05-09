@@ -10,7 +10,7 @@ app-name = "YouTube"
 build-mode = "both"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 included-patches = "'Add splash animation' 'Change player flyout panel toggles' 'Disable landscape mode' 'Enable debug logging' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide double tap to like animations' 'Hide fullscreen button' 'Hide player button background' 'Hide player chapters' 'Hide voice search button' 'MaterialYou' 'Shorts outline button' 'Spoof player parameters'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'Theme'"
 
@@ -19,7 +19,7 @@ app-name = "YouTube Music"
 build-mode = "both"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
 included-patches = "'Disable overlay filter' 'Enable color match player' 'Enable debug logging' 'Enable old player background' 'Enable old player layout' 'Enable old style miniplayer' 'Enable zen mode' 'Hide double tap overlay filter' 'Hide player overlay filter' 'Hide voice search button' 'Replace cast button'"
 excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Custom package name'"
@@ -34,18 +34,18 @@ app-name = "Reddit"
 build-mode = "both"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
 [Tiktok]
 app-name = "TikTok"
 build-mode = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
 [Twitch]
 app-name = "Twitch"
 build-mode = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 included-patches = "'Debug mode'"
 
 [Twitter]
@@ -53,7 +53,7 @@ app-name = "Twitter"
 build-mode = "both"
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 included-patches = "'Hide Banner' 'Hide Live Threads' 'Hide promote button' 'Force enable translate' 'Hide Community Notes' 'Hide FAB' 'Customize profile tabs' 'Bring back twitter' 'Disable chirp font' 'Add ability to copy media link'"
 
 [Yuka]
