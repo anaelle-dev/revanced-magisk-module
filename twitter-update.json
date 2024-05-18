@@ -1,6 +1,6 @@
 {
-  "version": "v10.40.0-release.0",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/anaelle-dev/revanced-magisk-module/releases/download/2/twitter-revanced-magisk-v10.40.0-release.0-all.zip",
+  "version": "v10.41.0-release.1",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/anaelle-dev/revanced-magisk-module/releases/download/3/twitter-revanced-magisk-v10.41.0-release.1-all.zip",
   "changelog": "https://raw.githubusercontent.com/anaelle-dev/revanced-magisk-module/update/build.md"
 }
