@@ -54,7 +54,7 @@ build-mode = "both"
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-included-patches = "'Bring back twitter' 'Hide FAB' 'Customize profile tabs' 'Customize Navigation Bar items' 'Enable app icon settings' 'Force enable translate' 'Hide promote button' 'Hide Community Notes' 'Hide Banner' 'Hide Live Threads' 'Add ability to copy media link' 'Disable chirp font'"
+included-patches = "'Hide FAB' 'Bring back twitter' 'Customize Navigation Bar items' 'Delete from database' 'Force enable translate' 'Hide promote button' 'Hide Community Notes' 'Hide Banner' 'Add ability to copy media link' 'Disable chirp font'"
 
 [Yuka]
 app-name = "Yuka"
