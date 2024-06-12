@@ -5,8 +5,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Integrations: crimera/revanced-integrations-1.20.0.apk  
-Patches: crimera/piko-twitter-patches-1.31.0.jar  
-[Changelog](https://github.com/crimera/piko/releases/tag/v1.31.0)
+Integrations: crimera/revanced-integrations-1.20.1.apk  
+Patches: crimera/piko-twitter-patches-1.31.1.jar  
+[Changelog](https://github.com/crimera/piko/releases/tag/v1.31.1)
 
 CLI: j-hc/revanced-cli-4.6.0-all.jar    
